@@ -1,0 +1,25 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "TDD software design practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julietadelgado/spiderverse.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Julieta Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julietadelgado/spiderverse/issues"
+  },
+  "homepage": "https://github.com/julietadelgado/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
